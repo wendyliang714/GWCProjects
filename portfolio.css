@@ -1,0 +1,32 @@
+body{
+      background-image: url("background.jpg");
+  border-style: double;
+  border-width: thick;
+  border-color: yellow;
+  margin: 20px;
+  padding:inherit;
+}
+h1 {
+  color: maroon;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-transform: full-width;
+    text-decoration: inherit;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+h2 {color: blue;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 30px;
+  margin-left: inherit;
+}
+
+li{font-family: "Comic Sans MS", cursive, sans-serif;}
+
+p{font-size: 18px;
+text-indent: inherit;
+padding: inherit;
+margin: inherit;
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
